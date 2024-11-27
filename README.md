@@ -2,3 +2,11 @@
 
 
 ![netflix logo](https://github.com/sanaahrindha/netflix_sqlproject/blob/main/netflix%20logo.jpg)
+
+
+## Objective
+
+
+## Schema
+
+```sql
